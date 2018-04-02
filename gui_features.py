@@ -99,4 +99,5 @@ while(1):
     else:
         img[:] = [b,g,r] # 全部赋值的意思
 cv.destroyAllWindows()
+# cwz_dev_1
 
