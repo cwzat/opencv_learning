@@ -97,6 +97,6 @@ while(1):
     if s == 0:
         img[:] = 0
     else:
-        img[:] = [b,g,r]
+        img[:] = [b,g,r] # 全部赋值的意思
 cv.destroyAllWindows()
 
